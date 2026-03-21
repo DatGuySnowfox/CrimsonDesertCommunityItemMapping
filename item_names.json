@@ -1,0 +1,555 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "itemKey": 1,
+      "name": "Silver",
+      "category": "Currency"
+    },
+    {
+      "itemKey": 11,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 12,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 13,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 14,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 15,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 53,
+      "name": "Gold Bar",
+      "category": "Currency"
+    },
+    {
+      "itemKey": 103,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 10026,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 11001,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 12306,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 13604,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 14510,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 21018,
+      "name": "Milk",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 22006,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 22008,
+      "name": "Water",
+      "category": "Ingredient"
+    },
+    {
+      "itemKey": 22009,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 25922,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 28901,
+      "name": "Bread",
+      "category": "Cooking"
+    },
+    {
+      "itemKey": 30010,
+      "name": "Gunpowder",
+      "category": "Crafting"
+    },
+    {
+      "itemKey": 30022,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 30041,
+      "name": "Key",
+      "category": "Key"
+    },
+    {
+      "itemKey": 50001,
+      "name": "Arrow",
+      "category": "Ammunition"
+    },
+    {
+      "itemKey": 50003,
+      "name": "",
+      "category": "Ammunition"
+    },
+    {
+      "itemKey": 75001,
+      "name": "Faded Abyss Artifact",
+      "category": "Skill Material"
+    },
+    {
+      "itemKey": 75002,
+      "name": "Abyss Artifact",
+      "category": "Skill Material"
+    },
+    {
+      "itemKey": 101014,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 111165,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 121013,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 123036,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 123183,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 123224,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 123313,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 124067,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 131013,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 133009,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 133242,
+      "name": "",
+      "category": "Key"
+    },
+    {
+      "itemKey": 200014,
+      "name": "Torch",
+      "category": "Junk"
+    },
+    {
+      "itemKey": 200021,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 200035,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 200077,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 200901,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 200914,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 230029,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 230905,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 230909,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 240018,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 240026,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 240031,
+      "name": "",
+      "category": "Consumable"
+    },
+    {
+      "itemKey": 290017,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 290058,
+      "name": "",
+      "category": "Misc"
+    },
+    {
+      "itemKey": 300002,
+      "name": "",
+      "category": "Quest"
+    },
+    {
+      "itemKey": 300003,
+      "name": "",
+      "category": "Quest"
+    },
+    {
+      "itemKey": 700001,
+      "name": "Cloth Piece",
+      "category": "Crafting"
+    },
+    {
+      "itemKey": 710001,
+      "name": "Timber",
+      "category": "Material"
+    },
+    {
+      "itemKey": 720001,
+      "name": "Iron Ore",
+      "category": "Crafting"
+    },
+    {
+      "itemKey": 720004,
+      "name": "Copper Ore",
+      "category": "Material"
+    },
+    {
+      "itemKey": 720010,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 721503,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 721504,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 721506,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 740001,
+      "name": "Thin Hide",
+      "category": "Crafting"
+    },
+    {
+      "itemKey": 740002,
+      "name": "Short Hair Hide",
+      "category": "Material"
+    },
+    {
+      "itemKey": 740004,
+      "name": "Thick Hide",
+      "category": "Material"
+    },
+    {
+      "itemKey": 740005,
+      "name": "Sturdy Hide",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750002,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750003,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750004,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750006,
+      "name": "Apple",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750008,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750009,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750018,
+      "name": "Oats",
+      "category": "Material"
+    },
+    {
+      "itemKey": 750019,
+      "name": "",
+      "category": "Ingredient"
+    },
+    {
+      "itemKey": 750024,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751103,
+      "name": "Rosemary",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751107,
+      "name": "Lavender",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751109,
+      "name": "White Lavendar",
+      "category": "Alchemy"
+    },
+    {
+      "itemKey": 751111,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751112,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751122,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751127,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751128,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751133,
+      "name": "Sweet Potato",
+      "category": "Material"
+    },
+    {
+      "itemKey": 751134,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 752001,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 752003,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 752005,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 752021,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 754006,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 755015,
+      "name": "Egg",
+      "category": "Ingredient"
+    },
+    {
+      "itemKey": 756604,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 756804,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 757002,
+      "name": "Marigold",
+      "category": "Alchemy"
+    },
+    {
+      "itemKey": 757006,
+      "name": "",
+      "category": "Material"
+    },
+    {
+      "itemKey": 795009,
+      "name": "Small Bones",
+      "category": "Crafting"
+    },
+    {
+      "itemKey": 795042,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 795053,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 800047,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 802204,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 802261,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 803011,
+      "name": "",
+      "category": "Equipment"
+    },
+    {
+      "itemKey": 950001,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950002,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950003,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950004,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950007,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950010,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950018,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950020,
+      "name": "",
+      "category": "Special"
+    },
+    {
+      "itemKey": 950039,
+      "name": "",
+      "category": "Special"
+    }
+  ]
+}
