@@ -1,0 +1,74 @@
+{
+  "name": "Greater Abyssal Gear's",
+  "author": "Ruben",
+  "description": "Gives you all the grater abyssal gear's / They have durability be aware",
+  "version": 1,
+  "created": "2026-03-24",
+  "items": [
+    {
+      "item_key": 1002862,
+      "name": "Greater Destruction",
+      "count": 1
+    },
+    {
+      "item_key": 1002969,
+      "name": "Greater Insight",
+      "count": 1
+    },
+    {
+      "item_key": 1002970,
+      "name": "Greater Swift",
+      "count": 1
+    },
+    {
+      "item_key": 1002972,
+      "name": "Greater Flameward",
+      "count": 1
+    },
+    {
+      "item_key": 1002973,
+      "name": "Greater Frostward",
+      "count": 1
+    },
+    {
+      "item_key": 1002974,
+      "name": "Greater Shockward",
+      "count": 1
+    },
+    {
+      "item_key": 1002975,
+      "name": "Greater Steelbane",
+      "count": 1
+    },
+    {
+      "item_key": 1002976,
+      "name": "Greater Hexebane",
+      "count": 1
+    },
+    {
+      "item_key": 1002977,
+      "name": "Greater Bloodbane",
+      "count": 1
+    },
+    {
+      "item_key": 1002978,
+      "name": "Greater Primalbane",
+      "count": 1
+    },
+    {
+      "item_key": 1002979,
+      "name": "Greater Malicebane",
+      "count": 1
+    },
+    {
+      "item_key": 1002980,
+      "name": "Greater Beastbane",
+      "count": 1
+    },
+    {
+      "item_key": 1002981,
+      "name": "Greater Abyssbane",
+      "count": 1
+    }
+  ]
+}

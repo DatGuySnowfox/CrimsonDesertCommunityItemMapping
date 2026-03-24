@@ -2,10 +2,26 @@
   "packs": [
     {
       "filename": "all_dyes.json",
-      "name": "All Dyes",
+      "name": "Dye",
       "author": "Hatrack",
-      "description": "All 57 dyes - every color variant in the game",
-      "itemCount": 57,
+      "description": "All Dyes",
+      "itemCount": 60,
+      "version": 1
+    },
+    {
+      "filename": "beloth_armor___armor_of_shadows_set_base.json",
+      "name": "Beloth Armor / Armor Of Shadows Set Base",
+      "author": "Ruben",
+      "description": "Armor of shadows with level 3 enchant",
+      "itemCount": 5,
+      "version": 1
+    },
+    {
+      "filename": "greater_abyssal_gear_s.json",
+      "name": "Greater Abyssal Gear's",
+      "author": "Ruben",
+      "description": "Gives you all the grater abyssal gear's / They have durability be aware",
+      "itemCount": 13,
       "version": 1
     }
   ]

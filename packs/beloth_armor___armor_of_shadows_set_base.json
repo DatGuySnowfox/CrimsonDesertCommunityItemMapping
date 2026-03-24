@@ -1,0 +1,39 @@
+{
+  "name": "Beloth Armor / Armor Of Shadows Set Base",
+  "author": "Ruben",
+  "description": "Armor of shadows with level 3 enchant",
+  "version": 1,
+  "created": "2026-03-23",
+  "items": [
+    {
+      "item_key": 1000225,
+      "name": "Plate Armor of the Shadows",
+      "count": 1,
+      "enchant": 3
+    },
+    {
+      "item_key": 1000382,
+      "name": "Plate Boots of the Shadows",
+      "count": 1,
+      "enchant": 3
+    },
+    {
+      "item_key": 1000383,
+      "name": "Plate Cloak of the Shadows",
+      "count": 1,
+      "enchant": 3
+    },
+    {
+      "item_key": 1000381,
+      "name": "Plate Gloves of the Shadows",
+      "count": 1,
+      "enchant": 3
+    },
+    {
+      "item_key": 1000380,
+      "name": "Plate Helm of the Shadows",
+      "count": 1,
+      "enchant": 3
+    }
+  ]
+}
