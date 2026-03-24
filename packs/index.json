@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "filename": "all_dyes.json",
+      "name": "All Dyes",
+      "author": "Hatrack",
+      "description": "All 57 dyes - every color variant in the game",
+      "itemCount": 57,
+      "version": 1
+    }
+  ]
+}
