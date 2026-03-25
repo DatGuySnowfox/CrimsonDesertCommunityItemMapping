@@ -1,0 +1,29 @@
+name: Merge Item Templates
+
+on:
+  push:
+    paths:
+      - 'contributions/*.json'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Merge contributions into master
+        run: |
+          python merge_contributions.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Template Bot"
+          git config user.email "bot@crimsondesert.tools"
+          git add templates/master_templates.json
+          git diff --cached --quiet || git commit -m "Auto-merge: update master template DB"
+          git push
