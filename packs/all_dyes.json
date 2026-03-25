@@ -6,36 +6,6 @@
   "created": "2026-03-24",
   "items": [
     {
-      "item_key": 1001175,
-      "name": "Pure White Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001260,
-      "name": "Bright Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001308,
-      "name": "Silver Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001324,
-      "name": "Medium Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001336,
-      "name": "Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001433,
-      "name": "Shadow Grey Dye",
-      "count": 1
-    },
-    {
       "item_key": 1001615,
       "name": "Bright Red Dye",
       "count": 1
@@ -283,26 +253,6 @@
     {
       "item_key": 1001664,
       "name": "Deep Orange Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001712,
-      "name": "Cloud Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001749,
-      "name": "Deep Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001789,
-      "name": "Dark Grey Dye",
-      "count": 1
-    },
-    {
-      "item_key": 1001858,
-      "name": "Black Dye",
       "count": 1
     }
   ]
