@@ -23,6 +23,14 @@
       "description": "Gives you all the grater abyssal gear's / They have durability be aware",
       "itemCount": 13,
       "version": 1
+    },
+    {
+      "filename": "blackstar_dragon_no_cooldown.json",
+      "name": "BlackStar Dragon No Cooldown",
+      "author": "RicePaddy",
+      "description": "Swap a consumable to 20x Narima's Horn — instant Dragon cooldown reset",
+      "itemCount": 1,
+      "version": 1
     }
   ]
 }
