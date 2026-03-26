@@ -1,0 +1,14 @@
+{
+  "name": "BlackStar Dragon No Cooldown",
+  "author": "RicePaddy",
+  "description": "This will swap an item of your choosing recommend a misc consumable to an item. instant cd to dragon.",
+  "version": 1,
+  "created": "2026-03-26",
+  "items": [
+    {
+      "item_key": 1003772,
+      "name": "Narima's Horn",
+      "count": 20
+    }
+  ]
+}
